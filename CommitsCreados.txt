@@ -1,0 +1,11 @@
+commit 291c9c677916b6ad25e7fa0bb264fcef1ebb7b7f
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Sat Aug 3 21:25:41 2019 -0500
+
+    Se agrego parrafo y se trabajo ocultacion de divs en los dispositivos pequenos
+
+commit 9d890ac1dc9ad6922b035fbf4c0673e00b5a34ab
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Sat Aug 3 20:21:15 2019 -0500
+
+    Inicio de proyecto y manejo de rejillas ajustadas a diferentes tamaños
