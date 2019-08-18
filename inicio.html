@@ -8,39 +8,117 @@
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 
 	<style>
-		 body{background-color: #010101; text-align: center;}
+		 body{background-color: WHITE; text-align: center;}
+		.container{background-color: #101010;}
 		.bor1{background-color: #002663; text-align: center;}
 		.bor2{background-color: #ffdd00; text-align: center;}
 		.bor3{background-color: #ce181e; text-align: center;}
 		.bor4{background-color: #05cc47; text-align: center;}
+		h3{color: white; background-color: #71706F; width: auto;}
 
 	</style>
 </head>
 <body>
 
-	<div class="container"> 	
-		
-		<div class="row">
 
-			<div class="col border">
-				
-				<div class="clearfix visible-xs">
-					<span class="float-left bor3">IZQUIERDA</span>
-					<span class="float-right bor2">DERECHA</span>
-				</div>
+	<div class="container border" style="height: 200px;">
+		<h3> JUSTIFY-CONTENT-START</h3>
+		<div class="row justify-content-start bor1 border">
 			
+			<div class="col-2 bor2">
+				<p>UNO</p>
 			</div>
-			
-			<div class="col border">
-				<div class="clearfix visible-xs">
-					<span class="float-left bor3">IZQUIERDA</span>
-					<span class="float-right bor2">DERECHA</span>
-				</div>
-			
 
-			</div>	
+			<div class="col-2 bor3">
+				<p>UNO</p>
+			</div>
+
+			<div class="col-2 bor4">
+				<p>UNO</p>
+			</div>
+
+		</div>
+	</div>
+	<br>
+	
+	<div class="container border" style="height: 200px;">
 		
-		</div>		
+		<h3>JUSTIFY-CONTENT-CENTER</h3>
+		<div class="row bor1 justify-content-center">
+			
+			<div class="col-2 bor2">
+				<p>UNO</p>
+			</div>			
+
+			<div class="col-2 bor3">
+				<p>DOS</p>
+			</div>			
+
+			<div class="col-2 bor4">
+				<p>TRES</p>
+			</div>
+
+		</div>
+
+
+	</div>
+
+	<br>
+
+	<div class="container border" style="height: 200px">
+		<h3>JUSTIFY-CONTENT-END</h3>	
+		<div class="row justify-content-end bor1 border ">
+			
+			<div class="col-2 bor2">
+				<p>UNO</p>
+			</div>
+			<div class="col-2 bor3">
+				<p>DOS</p>
+			</div>
+			<div class="col-2 bor4">
+				<p>TRES</p>
+			</div>
+
+		</div>
+	</div>
+	<br>
+	<div class="container border" style="height: 200px;"> 	
+		<h3>JUSTIFY-CONTENT-BETWEEN</h3>
+		<div class="row justify-content-between bor3 border">
+
+			<div class="col-2 bor2">
+				<p>UNO</p>
+			</div>
+
+			<div class="col-2 bor1">
+				<p>DOS</p>
+			</div>			
+
+			<div class="col-2 bor4">
+				<p>TRES</p>
+			</div>			
+
+		</div>
+
+	</div>
+	<br>
+	<div class="container border" style="height: 200px;"> 	
+		<h3>JUSTIFY-CONTENT-AROUND</h3>
+		<div class="row justify-content-around bor3 border">
+
+			<div class="col-2 bor2">
+				<p>UNO</p>
+			</div>
+
+			<div class="col-2 bor1">
+				<p>DOS</p>
+			</div>			
+
+			<div class="col-2 bor4">
+				<p>TRES</p>
+			</div>			
+
+		</div>
 
 	</div>
 	
