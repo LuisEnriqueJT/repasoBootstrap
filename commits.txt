@@ -1,0 +1,41 @@
+commit 6ea7f8bf556c9633bd21e91a33feb5cd1ca73ef4
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Sun Aug 18 20:10:01 2019 -0500
+
+    Fijacion de contenidos con fixed-top
+
+commit f88e72fcf45dadee8c5a1ebdacd55709ebbef7e7
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Sun Aug 18 18:18:53 2019 -0500
+
+    Alineacion vertical directo de las columnas
+
+commit 859ba53795576be2303dd4839e516cc8d63684ef
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Sun Aug 18 17:54:27 2019 -0500
+
+    Alineacion vertical usando align-intems con sus tres parametros
+
+commit c31b39adbc17283912fa35e4917ebf40d2c80fe5
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Sun Aug 18 00:30:40 2019 -0500
+
+    Justify-content trabajados, se cambio el color de fondo
+
+commit 01ba3353cd14231b2308238d2649e2f2da13ec0f
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Thu Aug 15 00:12:08 2019 -0500
+
+    Alineacion y clearfix
+
+commit 291c9c677916b6ad25e7fa0bb264fcef1ebb7b7f
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Sat Aug 3 21:25:41 2019 -0500
+
+    Se agrego parrafo y se trabajo ocultacion de divs en los dispositivos pequenos
+
+commit 9d890ac1dc9ad6922b035fbf4c0673e00b5a34ab
+Author: LuisEnriqueJT <luisenrique.jt@outlook.com>
+Date:   Sat Aug 3 20:21:15 2019 -0500
+
+    Inicio de proyecto y manejo de rejillas ajustadas a diferentes tamaños
